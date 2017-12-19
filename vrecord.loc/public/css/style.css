@@ -1,0 +1,46 @@
+/*html { overflow:  hidden; }*/
+body {
+
+}
+@font-face {
+    font-family: Sweaty-beta; /* Имя шрифта */
+    src: url('../Fonts/Sweaty-beta.ttf'); /* Путь к файлу со шрифтом */
+}
+.mian{
+    width:100%;
+    background: linear-gradient(to top, #c5d5d4, #94a4a3);
+    text-align: center;
+    padding: 10%;
+
+
+}
+.main-wrap{
+    width: 80%;
+    margin: 0 auto;
+    height: 1300px;
+
+}
+
+.title {
+    width:80%;
+    margin: 3% auto;
+    font-size: 6em;
+    color:#ffffff;
+    font-family: Sweaty-beta;
+}
+.title-text {
+    width:70%;
+    margin: 3% auto;
+    color: #e0f3f2;
+}
+.text {
+    width:50%;
+    margin: 3% auto;
+    color:#ffffff;
+}
+.button-block a{
+    color: #fff;
+}
+.share {
+    width:50px;
+}
